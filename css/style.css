@@ -1,3 +1,5 @@
-h1 {
-  color: blue;
+.left-column {
+  position:sticky;
+  top: 10px;
+  align-self: flex-start
 }
